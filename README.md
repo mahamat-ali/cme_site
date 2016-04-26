@@ -1,2 +1,2 @@
-# cme_site
-cme web site repository
+This is cme web site repository.
+
