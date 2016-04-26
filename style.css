@@ -1,1 +1,17 @@
+h1, h2{
+	text-decoration: underline;
+	text-align: center;
+	font-style: italic;
+	font-family: Arial;
+	color: #c3e45a;
+}
 
+
+p{
+	color: maroon;
+}
+
+
+body{
+	background: grey;
+}
